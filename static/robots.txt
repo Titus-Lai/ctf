@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /credentials.txt
+Disallow: /fwhaiofneajohfeoq.txt
